@@ -1,2 +1,2 @@
 # database
-MySQL database for website (Blockchain)
+Django backend for NFT project (Databases: MySQL + IPFS)
